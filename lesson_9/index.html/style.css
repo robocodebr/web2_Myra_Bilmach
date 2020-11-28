@@ -1,0 +1,52 @@
+
+
+*{
+    font-size: 120px;
+    border: 300px soid #0000;
+
+}
+
+body{
+    background: rgb(46, 209, 182);
+    color: rgb(48, 73, 71)
+}
+    h1{
+        background: rgb(43, 88, 43);
+     color:red;
+    }
+    
+    h2{
+        background: rgb(85, 35, 35);
+        color: rgb(36, 83, 75);
+    }
+    h3{
+        background: rgb(49, 173, 18);
+        color: royalblue;
+    }
+    h4{
+        background: saddlebrown;
+        color: rgb(46, 50, 65);
+    }
+    h5{
+        background: seagreen;
+        color: rgb(54, 38, 38);
+    }
+    h6{
+        background: rosybrown;
+        color: rebeccapurple;
+    }
+        #heading1{
+            background: rgb(255, 217, 0);
+            wigth:300px;
+            height:300px
+        }
+        .heading {
+            background:rgb(92, 58, 58) ;
+
+        }
+            #heading2{
+                width:50%;
+            }
+            #heading3{
+                width:10% soid #b13434;
+            }

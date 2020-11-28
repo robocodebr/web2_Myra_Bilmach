@@ -1,0 +1,21 @@
+body{
+    background: rgb(255, 163, 214);
+}
+ #heading1{
+     color: #431449;
+     font-size: 64px;
+ }
+
+.text{
+    border: 1px solid #431449;
+    padding: 10px;
+    margin: 10px;
+    background: rgba(52, 221, 136, 0);
+    display: inline-block;
+    display: none;
+    display: table;
+    display: flex; 
+    width: 45%;
+}
+
+
