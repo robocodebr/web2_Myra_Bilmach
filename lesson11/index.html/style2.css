@@ -1,0 +1,69 @@
+.container{
+    display: flex;
+    background: blueviolet;
+    height: 300px;
+    padding: 10px ;
+   flex-direction: row;
+   flex-wrap: wrap;
+} 
+.container div{
+    width: 46%;
+    height: 50px;
+    background: rgb(218, 170, 108);
+    margin: 1%;
+    justify-content: space-between;
+
+ 
+}
+.container2{
+    background: rgb(99, 136, 63);
+    
+    justify-content: flex-end;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1%;
+}
+.container2 div{
+    width: 30%;
+    height: 95%;
+    background: rgb(218, 170, 108);
+    margin: 1%;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+.container3{
+    background: chartreuse;
+   
+    height: 95%;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+.container3 div {
+    height: 98%;
+    background: rgb(16, 77, 138);
+}
+.container4{
+    background: rgb(33, 118, 187);
+  
+    height: 400px;
+}
+
+.container4 div {
+    height: 98%;
+    background: rgb(235, 241, 247);
+  
+}
+
+.container6 {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    background: crimson;
+}
+.container6 div {
+    width: 96%;
+    flex-basis: 15%;
+    background-color: coral;
+}
+.container6 #d1{
+    flex-basis: 35%;
+}

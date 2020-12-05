@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    background: blueviolet;
+    height: 300px;
+    padding: 10px ;
+   flex-direction: column;
+   flex-wrap: wrap;
+ }
+ .container div{
+     width: 50px;
+     height: 50px;
+     background: burlywood;
+     margin: 10px;
+     flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+ }
+
+ .container2{
+     background: cadetblue;
+     margin: 10px;
+     justify-content:flex-end;
+    align-items:flex-end;
+    justify-content: space-between;
+    flex-wrap: wrap;
+ }
+
+ .container3{
+     background: chartreuse;
+     margin: 10px;
+     justify-content: flex-end;
+     align-items: flex-start;
+     flex-wrap: wrap;
+ }
+ .container4{
+     background: chocolate;
+     margin: 10px;
+     justify-content: flex-end;
+     align-items: flex-start;
+     flex-wrap: wrap;
+ }
+ .container5{
+    background: rgb(32, 14, 1);
+    margin: 10px;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
